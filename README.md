@@ -45,4 +45,3 @@ Design a dashboard that incorporates the insights from the previous tasks. Use t
 
 Add slicers to your dashboard to allow users to filter and interact with the data dynamically. Slicers can help users focus on specific aspects of the data, such as gender, age range, or bike purchase status.
 
-Remember to document each step and its results thoroughly so that anyone reviewing your analysis can follow your process and conclusions.

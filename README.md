@@ -1,3 +1,7 @@
+
+<img width="863" alt="image" src="https://github.com/stefanmills/Bike-Sales-DashBoard/assets/24477861/1a91b6d0-0a0d-4141-9889-be16ad3049e4">
+
+
 # Bike-Sales-DashBoard
 This is an Excel DashBoard for Bike Sales across the  some selected regions.
 Please note that there is the raw data and  also the project data after the raw data had been cleaned
